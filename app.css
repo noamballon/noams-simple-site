@@ -96,6 +96,9 @@ h4 {
         width: 100%;
         display: flex;  
     }
+    .body {
+        justify-content: space-between;
+    }
     .absolute-gif img {
         width: 100%;
     }
